@@ -1,4 +1,4 @@
-## Image-search-app-using-unsplash
+## Imagefinder
 
 Image Search Engine using Unsplash API. Checkout the website from [here](https://kind-volhard-e63edd.netlify.app/).
 
